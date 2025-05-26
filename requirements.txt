@@ -1,0 +1,9 @@
+click==8.0.4
+torch==2.1.0
+torchvision==0.16.0
+numpy==1.22.3
+tensorboard
+packaging
+matplotlib
+scikit-learn
+seaborn
